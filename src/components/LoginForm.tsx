@@ -105,7 +105,7 @@ const LoginForm = () => {
   return (
     <FormContainer>
       <Logo>
-        <img src="/logo.png" alt="Tropa Digital" />
+        <img src="/assets/logo.png" alt="Tropa Digital" />
       </Logo>
       <WelcomeText>Bem-vindo ao Painel</WelcomeText>
       <form onSubmit={handleSubmit}>
