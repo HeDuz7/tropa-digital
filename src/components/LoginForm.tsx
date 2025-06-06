@@ -114,7 +114,6 @@ const LoginForm = () => {
           <Input
             type="email"
             id="email"
-            style="width: 100%"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             placeholder="exemplo@email.com"
@@ -127,7 +126,6 @@ const LoginForm = () => {
             <Input
               type={showPassword ? "text" : "password"}
               id="password"
-              style="width: 100%"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               placeholder="Digite sua senha"
