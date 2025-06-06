@@ -1,6 +1,6 @@
 # Teste Frontend - Tropa Digital
 
-Este projeto foi desenvolvido como parte do teste para a vaga de Frontend na Tropa Digital. Consiste em uma aplicação com tela de login e dashboard interno, seguindo fielmente o layout disponibilizado no Figma.
+Este projeto foi desenvolvido como parte do teste para a vaga de Frontend na Tropa Digital. Consiste em uma aplicação com tela de login e dashboard interno, seguindo o layout disponibilizado no Figma.
 
 ## Tecnologias Utilizadas
 
@@ -50,44 +50,4 @@ src/
    - Layout adaptável para dispositivos móveis e desktop
    - Menu lateral colapsável em telas menores
 
-## Como Executar o Projeto Localmente
-
-1. Clone o repositório:
-```bash
-git clone [URL_DO_REPOSITÓRIO]
-cd tropa-digital-test
-```
-
-2. Instale as dependências:
-```bash
-npm install
-```
-
-3. Execute o servidor de desenvolvimento:
-```bash
-npm run dev
-```
-
-4. Acesse a aplicação em `http://localhost:3000`
-
-## Instruções para Deploy na Vercel
-
-Para publicar este projeto na Vercel:
-
-1. Crie uma conta na [Vercel](https://vercel.com) caso ainda não tenha
-2. Faça o upload do projeto para um repositório Git (GitHub, GitLab ou Bitbucket)
-3. Na Vercel, clique em "New Project" e importe o repositório
-4. Mantenha as configurações padrão e clique em "Deploy"
-5. Após o deploy, a Vercel fornecerá uma URL pública para acesso à aplicação
-
-## Credenciais para Teste
-
-A aplicação utiliza autenticação simulada. Qualquer combinação de email/senha será aceita para fins de demonstração.
-
-## Considerações sobre o Desenvolvimento
-
-O projeto foi desenvolvido com foco na fidelidade visual ao layout do Figma, na experiência do usuário e na organização do código. A escolha do Next.js com Styled Components permitiu uma implementação eficiente e escalável, mantendo a qualidade visual e a responsividade em diferentes dispositivos.
-
----
-
-Desenvolvido por [Seu Nome] para o teste da Tropa Digital.
+Desenvolvido por [Luiz Eduardo Gomes Dias] para o teste da Tropa Digital.
